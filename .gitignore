@@ -1,0 +1,7 @@
+*.mp4
+*.mov
+Videos sem legenda/
+Videos Gerados/
+Videos gerados/
+__pycache__/
+.vscode/

@@ -1,0 +1,16 @@
+# Ignorar arquivos de vídeo (muito pesados para o GitHub)
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Ignorar pastas de conteúdo e saída
+Videos sem legenda/
+Videos Gerados/
+
+# Ignorar arquivos temporários do Python e VS Code
+__pycache__/
+.vscode/
+
+# Ignorar executáveis (do seu código C++)
+*.exe
